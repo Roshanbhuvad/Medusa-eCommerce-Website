@@ -4,9 +4,11 @@ Medusa.js is an open-source eCommerce framework that allows developers to build 
 
 # Medusa API
    cd my-medusa-store/backend
-   yarn start
+   
+   npm start
 
 
 # Storefront
    cd my-medusa-store/storefront
-   yarn dev
+  
+  npm run dev
